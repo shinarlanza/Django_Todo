@@ -1,5 +1,5 @@
 # Todo 
 
-1. Streamlit - forms
-2. Django - framework
+1. Streamlit 
+2. Django 
 3. Django REST Framework
